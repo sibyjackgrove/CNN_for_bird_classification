@@ -9,7 +9,7 @@ tf.layers, tf.image, tf.gfile, tf.losses
 # Classification - 3 Classes
 0: Cardinal; 1: Indigo; 2: None of these
 # Dataset
-Source: CUB-200 @ http://www.vision.caltech.edu/visipedia/CUB-200.html
-Tranining data: 72 images
+Source: CUB-200 available at http://www.vision.caltech.edu/visipedia/CUB-200.html
+Training data: 72 images
 Validation data: 24 images
 Testing data: 4 images
