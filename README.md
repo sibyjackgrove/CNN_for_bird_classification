@@ -1,4 +1,4 @@
-# CNN_for_bird_classification
+# CNN_for_classifying_bird_images
 Convolutional Neural Network to classify images of birds into Cardinal and Indigo. Only TensorFlow operations are used to read image files, and build CNN.
 # Dependencies
 TensorFlow 1.0, Numpy
