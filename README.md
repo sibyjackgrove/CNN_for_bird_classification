@@ -4,8 +4,9 @@ Convolutional Neural Network to classify images of birds into Cardinal and Indig
 TensorFlow 1.0, Numpy
 # Operations
 tf.layers, tf.image, tf.gfile, tf.losses
-# Parametres
+# CNN Architecture
 2 Convolutional layers with ReLU activation, 2 Max Pooling Layers, 1 Fully Connected Layer with Softmax Activation
+# Training
 Training data: 72 images
 Validation data: 24 images
 Testing data: 4 images
